@@ -1,0 +1,26 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+}
+
+canvas#game {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+}
+
+div#log {
+    background: rgba(0, 0, 0, 0.90);
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    color: white;
+    text-align: left;
+    padding: 5px 9px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 3;
+}
