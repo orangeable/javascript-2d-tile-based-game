@@ -1,4 +1,4 @@
-# 2D Game
+# 2D Tile-Based Game with JavaScript
 
 ## Example:
 
