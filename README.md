@@ -2,9 +2,9 @@
 
 ## Example:
 
-![Dump](https://github.com/orangeable/javascript-2d-tile-based-game/blob/master/example.mp4)
+![Dump](https://github.com/orangeable/javascript-2d-tile-based-game/blob/master/example.mp4?raw=true)
 
-## Build as a desktop app:
+## Build as a desktop app with NW.js:
 
 ## #nwjs-builder
 
